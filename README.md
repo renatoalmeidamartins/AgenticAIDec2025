@@ -14,3 +14,5 @@
 - [Neural Network Zoo](https://www.asimovinstitute.org/neural-network-zoo/)
 - [Prompt engineering info on AWS](https://aws.amazon.com/what-is/prompt-engineering/)
 - [Advanced prompt engineering, highlighting the COSTAR framework](https://aws.amazon.com/blogs/machine-learning/implementing-advanced-prompt-engineering-with-amazon-bedrock/)
+- [Crew AI open source](https://www.crewai.com/open-source)
+- [LangChain](https://docs.langchain.com/oss/python/langchain/overview)
