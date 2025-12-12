@@ -20,3 +20,8 @@
 - [MCP - Model Context Protocol](https://modelcontextprotocol.io/docs/getting-started/intro)
 - [Repo with MCP server](https://github.com/modelcontextprotocol/servers?tab=readme-ov-file#%EF%B8%8F-official-integrations)
 - [A2A, agent 2 agent protocol](https://developers.googleblog.com/en/a2a-a-new-era-of-agent-interoperability/)
+- [Managing Amazon Q Developer Profiles and Customizations in Large Organizations](https://aws.amazon.com/blogs/devops/managing-amazon-q-developer-profiles-and-customizations-in-large-organizations/)
+- [Q developer pricing](https://aws.amazon.com/q/developer/pricing/)
+- [Quotas and limits for Q developer](docs.aws.amazon.com/general/latest/gr/amazonqdev.html)
+- [Context options for Q developer](https://docs.aws.amazon.com/amazonq/latest/qdeveloper-ug/ide-chat-context.html)
+- 
