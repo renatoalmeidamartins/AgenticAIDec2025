@@ -17,3 +17,6 @@
 - [Crew AI open source](https://www.crewai.com/open-source)
 - [LangChain](https://docs.langchain.com/oss/python/langchain/overview)
 - [Getting started with Amazon Bedrock Agents custom orchestrator](https://aws.amazon.com/blogs/machine-learning/getting-started-with-amazon-bedrock-agents-custom-orchestrator/)
+- [MCP - Model Context Protocol](https://modelcontextprotocol.io/docs/getting-started/intro)
+- [Repo with MCP server](https://github.com/modelcontextprotocol/servers?tab=readme-ov-file#%EF%B8%8F-official-integrations)
+- [A2A, agent 2 agent protocol](https://developers.googleblog.com/en/a2a-a-new-era-of-agent-interoperability/)
