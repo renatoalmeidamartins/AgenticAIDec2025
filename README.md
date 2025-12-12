@@ -16,3 +16,4 @@
 - [Advanced prompt engineering, highlighting the COSTAR framework](https://aws.amazon.com/blogs/machine-learning/implementing-advanced-prompt-engineering-with-amazon-bedrock/)
 - [Crew AI open source](https://www.crewai.com/open-source)
 - [LangChain](https://docs.langchain.com/oss/python/langchain/overview)
+- [Getting started with Amazon Bedrock Agents custom orchestrator](https://aws.amazon.com/blogs/machine-learning/getting-started-with-amazon-bedrock-agents-custom-orchestrator/)
