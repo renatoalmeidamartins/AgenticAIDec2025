@@ -24,4 +24,4 @@
 - [Q developer pricing](https://aws.amazon.com/q/developer/pricing/)
 - [Quotas and limits for Q developer](docs.aws.amazon.com/general/latest/gr/amazonqdev.html)
 - [Context options for Q developer](https://docs.aws.amazon.com/amazonq/latest/qdeveloper-ug/ide-chat-context.html)
-- 
+- [Bedrock flows samples](https://github.com/aws-samples/amazon-bedrock-flows-samples?tab=readme-ov-file)
