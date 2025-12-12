@@ -25,3 +25,4 @@
 - [Quotas and limits for Q developer](docs.aws.amazon.com/general/latest/gr/amazonqdev.html)
 - [Context options for Q developer](https://docs.aws.amazon.com/amazonq/latest/qdeveloper-ug/ide-chat-context.html)
 - [Bedrock flows samples](https://github.com/aws-samples/amazon-bedrock-flows-samples?tab=readme-ov-file)
+- [AWS IAM autopilot, a tool using genAI expertise to come up with the right set of permissions required based on the code](https://aws.amazon.com/blogs/security/iam-policy-autopilot-an-open-source-tool-that-brings-iam-policy-expertise-to-builders-and-ai-coding-assistants/)
