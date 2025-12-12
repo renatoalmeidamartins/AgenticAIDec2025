@@ -32,3 +32,4 @@
 - [Strands agent samples](https://github.com/strands-agents/samples)
 - [Policies and quality evaluations added to agentcore](https://aws.amazon.com/blogs/aws/amazon-bedrock-agentcore-adds-quality-evaluations-and-policy-controls-for-deploying-trusted-ai-agents/)
 - [Example of using DynamoDB for memory tied to Langchain](https://aws.amazon.com/blogs/database/build-a-scalable-context-aware-chatbot-with-amazon-dynamodb-amazon-bedrock-and-langchain/)
+- [Agentcore starter toolkit](https://github.com/aws/bedrock-agentcore-starter-toolkit)
