@@ -28,3 +28,6 @@
 - [AWS IAM autopilot, a tool using genAI expertise to come up with the right set of permissions required based on the code](https://aws.amazon.com/blogs/security/iam-policy-autopilot-an-open-source-tool-that-brings-iam-policy-expertise-to-builders-and-ai-coding-assistants/)
 - [Kiro concepts](https://kiro.dev/docs/specs/concepts/)
 - [Semantic Kernel - an additional agentic framework, contributed mainly by Microsoft](https://github.com/microsoft/semantic-kernel)
+- [Agentcore samples](https://github.com/awslabs/amazon-bedrock-agentcore-samples)
+- [Strands agent samples](https://github.com/strands-agents/samples)
+- [Policies and quality evaluations added to agentcore](https://aws.amazon.com/blogs/aws/amazon-bedrock-agentcore-adds-quality-evaluations-and-policy-controls-for-deploying-trusted-ai-agents/)
