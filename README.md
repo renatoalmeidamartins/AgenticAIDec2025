@@ -31,3 +31,4 @@
 - [Agentcore samples](https://github.com/awslabs/amazon-bedrock-agentcore-samples)
 - [Strands agent samples](https://github.com/strands-agents/samples)
 - [Policies and quality evaluations added to agentcore](https://aws.amazon.com/blogs/aws/amazon-bedrock-agentcore-adds-quality-evaluations-and-policy-controls-for-deploying-trusted-ai-agents/)
+- [](https://aws.amazon.com/blogs/database/build-a-scalable-context-aware-chatbot-with-amazon-dynamodb-amazon-bedrock-and-langchain/)
