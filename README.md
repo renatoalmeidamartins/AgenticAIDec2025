@@ -6,3 +6,6 @@
 ## Supporting resources for learning
 - [Portfolio of classroom-based trainings offered by AWS](https://aws.amazon.com/training/classroom/)
 - [Skill builder - amazing catalog of AWS self-paced learning, labs and exam practice. Some of them will require a subscription](https://skillbuilder.aws/)
+
+## Class links
+- [Definition of AI agents from AWS](https://aws.amazon.com/what-is/ai-agents/)
