@@ -9,3 +9,6 @@
 
 ## Class links
 - [Definition of AI agents from AWS](https://aws.amazon.com/what-is/ai-agents/)
+- [Definition of GPT](https://aws.amazon.com/what-is/gpt/)
+- [Transformer architecture](https://aws.amazon.com/what-is/transformers-in-artificial-intelligence/)
+- [Neural Network Zoo](https://www.asimovinstitute.org/neural-network-zoo/)
